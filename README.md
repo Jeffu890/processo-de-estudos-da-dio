@@ -1,2 +1,5 @@
-# processo-de-estudos-da-dio
-Repositório para guardar dados de estudos que Obtive nos cursos da DIO
+# Progresso de Estudos Relacionado na Plataforma da DIO
+Repositório com fins de guarda dados e anotações sobre as aulas que tenho no Bootcamp da DIO
+
+# Links Importantes
+[Plataforma da DIO](https://web.dio.me/home)
